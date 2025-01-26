@@ -1,6 +1,6 @@
 # HTML-CSS-Projects
 
-1)# Job Search Portal
+1) Job Search Portal
 
   ## Overview
   This project is a web-based job search portal developed using HTML and CSS. It allows users to browse job listings.
@@ -10,7 +10,7 @@
   - Display jobs list with Job role, location and Description.
   - User-friendly interface.
 
-2)# Parallel Website
+2) Parallel Website
 
   ## Overview
   This is a multipurpose website template designed for Exploring Nature. It uses modern HTML and CSS techniques to create a responsive layout.
@@ -20,7 +20,7 @@
   - Multipurpose layout for different use cases.
   - Clean and minimalist UI.
 
-3)# Developer Landing Page
+3) Developer Landing Page
 
   ## Overview
   This project is a personal landing page for developers to showcase their portfolio, skills, and contact information.
@@ -30,7 +30,7 @@
   - Responsive design suitable for all devices.
   - Easy customization.
 
-4)# Restaurant Website
+4) Restaurant Website
 
   ## Overview
   This is a responsive website for a restaurant, showcasing the menu, services, and contact information.
@@ -40,7 +40,7 @@
   - About us and contact details.
   - Mobile-friendly design.
 
-5)# My Tune Music Website
+5) My Tune Music Website
 
   ## Overview
   This project is a music streaming website where users can explore songs, playlists, and artists. Built entirely with HTML and CSS.
