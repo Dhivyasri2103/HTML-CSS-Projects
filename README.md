@@ -31,7 +31,7 @@
   - Interactive menu section.
   - About us and contact details.
   - Mobile-friendly design.
-  - 
+
 # My Tune Music Website
   This project is a music streaming website where users can explore songs, playlists, and artists. Built entirely with HTML and CSS.
 
